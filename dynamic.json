@@ -1,0 +1,40 @@
+{
+  "carrer":{
+    "info":"To work in an environment we can utilize my skills and knowledge and also improve them"
+  },
+  "education":[
+    {
+      "degree":"B.tech(IT)",
+      "Institution":"Vignan's Nirula Institute Of Technology",
+      "yop":"2020",
+      "Percentege":"90"
+    },
+    {
+      "degree":"Intermediate",
+      "Institution":"Andhra Christian College",
+      "yop":"2016",
+      "Percentege":"90"
+    },
+    {
+      "degree":"S.S.C",
+      "Institution":"Sai Aditya School",
+      "yop":"2014",
+      "Percentege":"90"
+    }
+  ],
+  "skills":[
+    {
+      "title":"Platforms",
+      "content":"windows,Linux"
+    },
+    {
+      "title":"Programming Languages",
+      "content":"C,C++,Java,Python,HTML,CSS,JS,JSON"
+    },
+    {
+      "title":"Database",
+      "content":"mysql,mongodb,plsql"
+    }
+  ],
+  "Languages":"Telugu,English,Hindi"
+}
